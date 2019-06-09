@@ -1,0 +1,14 @@
+﻿  cr_energy.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  main.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+e:\vs\sn_sus\sn_sus\main.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+  region_update.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+e:\vs\sn_sus\sn_sus\region_update.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  3 of 746 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  sn_sus.vcxproj -> E:\vs\sn_sus\Release\sn_sus.exe
